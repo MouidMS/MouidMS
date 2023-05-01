@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MouidMS
-- 👀 I’m interested in web Developer  and i will be full stack Developer :)
-- 🌱 I’m currently learning Full-Stack JavaScript Developer with Udacity
 - 📫 How to reach me on Email: MoeidMS@outlook.sa
 
 <!---
